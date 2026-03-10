@@ -46,17 +46,33 @@ Displays booking confirmation after a successful reservation.
 
 ## 📸 Preview
 
-###  Home Page
+### Onboarding & Car Selection Interfacer  
 
 <table>
   <tr>
     <td valign="top">
-      <img src="home-desktop.png" width="600"/>
+      <img src="1.png" width="full"/>
     </td>
+ </table>
+
+---
+### Car Details Screen & Booking Calendar  
+
+<table>
+  <tr>
     <td valign="top">
-      <img src="home-mobile.png" width="250"/>
+      <img src="2.png" width="full"/>
     </td>
-  </tr>
+ </table>
+
+---
+### Reservation Confirmation Screen
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="3.png" width="full"/>
+    </td>
  </table>
 
 ---
@@ -70,6 +86,14 @@ This project was created as a **UI/UX design practice project** to showcase a mo
 ## 📄 License
 
 This project is for **portfolio and educational purposes**.
+
+---
+
+## 🔗 Figma Design File
+
+View the full interactive design here:
+
+[Open Figma File](https://www.figma.com/proto/oG0j0EsApPwR67nnprfSXr/Car-Rental-Mobile-App-Design?node-id=1-2&t=TgK3gBh0qDEktzVq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
